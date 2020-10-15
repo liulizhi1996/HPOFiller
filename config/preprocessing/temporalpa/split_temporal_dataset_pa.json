@@ -1,0 +1,20 @@
+{
+  "old_ontology": {
+    "path": "../../../data/obo/hp_20190212.obo",
+    "version": "201902"
+  },
+  "new_ontology": {
+    "path": "../../../data/obo/hp_20200327.obo",
+    "version": "201904"
+  },
+  "old_mapping": "../../../data/annotation/intermediate/gene2uniprot_20190212.txt",
+  "new_mapping": "../../../data/annotation/intermediate/gene2uniprot_20200327.txt",
+  "old_annotation": "../../../data/annotation/raw/ALL_SOURCES_ALL_FREQUENCIES_genes_to_phenotype_20190212.txt",
+  "new_annotation": "../../../data/annotation/raw/genes_to_phenotype_20200327.txt",
+  "output": {
+    "processed_annotation": "../../../data/annotation/clean/hpo_annotation_temporal_20190212_20200327.json",
+    "mask": "../../../data/annotation/clean/temporalpa/mask/mask_temporalpa_20190212_20200327.h5",
+    "protein": "../../../data/auxiliary/protein/protein_list_temporal_pa_20190212_20200327.json",
+    "term": "../../../data/auxiliary/term/term_list_temporal_pa_20190212_20200327.json"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ontology": {
+    "path": "../../../data/obo/hp_20190212.obo",
+    "version": "201902"
+  },
+  "annotation": "../../../data/annotation/clean/hpo_annotation_20190212.json",
+  "output": {
+    "protein": "../../../data/auxiliary/protein/protein_list_pa_20190212.json",
+    "term": "../../../data/auxiliary/term/term_list_pa_20190212.json"
+  }
+}

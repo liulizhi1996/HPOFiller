@@ -2,8 +2,6 @@
 
 **HPOFiller: identifying missing protein-phenotype associations by graph convolutional network**
 
-***The code will be released after our paper being accepted.***
-
 *Please run the programs in order.*
 
 

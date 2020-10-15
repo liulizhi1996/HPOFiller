@@ -1,0 +1,37 @@
+{
+  "ontology": {
+    "path": "../../data/obo/hp_20190212.obo",
+    "version": "201902"
+  },
+  "protein": "../../data/auxiliary/protein/protein_list_pa_20190212.json",
+  "term": "../../data/auxiliary/term/term_list_pa_20190212.json",
+  "annotation": "../../data/annotation/clean/hpo_annotation_20190212.json",
+  "mask": [
+    "../../data/annotation/clean/cvpa/mask/mask_pa_f1_20190212.h5",
+    "../../data/annotation/clean/cvpa/mask/mask_pa_f2_20190212.h5",
+    "../../data/annotation/clean/cvpa/mask/mask_pa_f3_20190212.h5",
+    "../../data/annotation/clean/cvpa/mask/mask_pa_f4_20190212.h5",
+    "../../data/annotation/clean/cvpa/mask/mask_pa_f5_20190212.h5",
+    "../../data/annotation/clean/cvpa/mask/mask_pa_f6_20190212.h5",
+    "../../data/annotation/clean/cvpa/mask/mask_pa_f7_20190212.h5",
+    "../../data/annotation/clean/cvpa/mask/mask_pa_f8_20190212.h5",
+    "../../data/annotation/clean/cvpa/mask/mask_pa_f9_20190212.h5",
+    "../../data/annotation/clean/cvpa/mask/mask_pa_f10_20190212.h5"
+  ],
+  "prot_sim": "../../data/feature/STRING/clean/STRING.v11.0.json",
+  "pheno_sim": [
+    "../../data/HPOSim/cvpa/ic/HPOSim_pa_f1_ic_20190212.json",
+    "../../data/HPOSim/cvpa/ic/HPOSim_pa_f2_ic_20190212.json",
+    "../../data/HPOSim/cvpa/ic/HPOSim_pa_f3_ic_20190212.json",
+    "../../data/HPOSim/cvpa/ic/HPOSim_pa_f4_ic_20190212.json",
+    "../../data/HPOSim/cvpa/ic/HPOSim_pa_f5_ic_20190212.json",
+    "../../data/HPOSim/cvpa/ic/HPOSim_pa_f6_ic_20190212.json",
+    "../../data/HPOSim/cvpa/ic/HPOSim_pa_f7_ic_20190212.json",
+    "../../data/HPOSim/cvpa/ic/HPOSim_pa_f8_ic_20190212.json",
+    "../../data/HPOSim/cvpa/ic/HPOSim_pa_f9_ic_20190212.json",
+    "../../data/HPOSim/cvpa/ic/HPOSim_pa_f10_ic_20190212.json"
+  ],
+  "mode": "cv",
+  "n_folds": 10,
+  "output": "../../data/result/HPOFiller/cvpa/HPOFiller_pa_f{f}_20190212.json"
+}

@@ -1,0 +1,13 @@
+{
+  "ontology": {
+    "path": "../../data/obo/hp_20190212.obo",
+    "version": "201902"
+  },
+  "protein": "../../data/auxiliary/protein/protein_list_temporal_pa_20190212_20200327.json",
+  "term": "../../data/auxiliary/term/term_list_temporal_pa_20190212_20200327.json",
+  "annotation": "../../data/annotation/clean/hpo_annotation_temporal_20190212_20200327.json",
+  "mode": "single",
+  "method": "ic",
+  "mask": "../../data/annotation/clean/temporalpa/mask/mask_temporalpa_20190212_20200327.h5",
+  "output": "../../data/HPOSim/temporalpa/ic/HPOSim_temporalpa_20190212_20200327_ic.json"
+}

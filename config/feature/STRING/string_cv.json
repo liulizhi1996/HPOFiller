@@ -1,0 +1,5 @@
+{
+  "network": "../../../data/feature/STRING/raw/9606.protein.links.v11.0.txt",
+  "mapping": "../../../data/feature/STRING/raw/human.uniprot_2_string.2018.tsv",
+  "feature": "../../../data/feature/STRING/clean/STRING.v11.0.json"
+}
