@@ -86,3 +86,10 @@ Here the scores are scaled to [0, 1].
 	- Cross-validation: Evaluate on each fold. Please set `'mode'` in config file as `'cv'`.
 	- Temporal validation: Evaluate on single prediction result. Please set `'mode'` in config file as `'single'`.
 
+## Download the prediction results
+
+We upload the prediction results made by HPOFiller for the HPO annotation released by 2019-02-12. The data is available at:
+
+[https://doi.org/10.6084/m9.figshare.13311617](https://doi.org/10.6084/m9.figshare.13311617)
+
+This file is so large (1.05 GB), which contains the rank, UniProt ID of protein, HPO term ID and the predictive score. You are free to download it.
