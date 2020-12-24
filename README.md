@@ -90,6 +90,6 @@ Here the scores are scaled to [0, 1].
 
 We upload the prediction results made by HPOFiller for the HPO annotation released by 2019-02-12. The data is available at:
 
-[https://doi.org/10.6084/m9.figshare.13311617](https://doi.org/10.6084/m9.figshare.13311617)
+[https://doi.org/10.6084/m9.figshare.13487277](https://doi.org/10.6084/m9.figshare.13487277)
 
-This file is so large (1.05 GB), which contains the rank, UniProt ID of protein, HPO term ID and the predictive score. You are free to download it.
+This file is so large (585.8 MB), which contains the rank, UniProt ID of protein, HPO term ID and the predictive score. You are free to download it.
